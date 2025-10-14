@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT& PASSIONATE ABOUT ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING**
 
-- 👨‍💻 All of my projects are available at [https://wwwpiyush.netlify.app/](https://wwwpiyush.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://wwwpiyush.netlify.app/](https://piyushme.netlify.app/)
 
 - 📫 How to reach me **pk8962444@gmail.com**
 
-- 📄 Know about my experiences [https://wwwpiyush.netlify.app/](https://wwwpiyush.netlify.app/)
+- 📄 Know about my experiences [https://wwwpiyush.netlify.app/](https://piyushme.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
